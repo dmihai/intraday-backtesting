@@ -1,0 +1,13 @@
+{
+  "mysql": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
+  },
+  "logging": {
+    "output": "console",
+    "filename": "log-%(today)s",
+    "level": "INFO"
+  }
+}
