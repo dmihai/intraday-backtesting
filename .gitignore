@@ -1,0 +1,10 @@
+__pycache__
+
+log-*
+*.csv
+*.exe
+
+data/
+env/
+
+config.json
