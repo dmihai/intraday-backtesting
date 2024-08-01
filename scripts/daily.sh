@@ -4,6 +4,8 @@ then
   exit 1
 fi
 
+rm result.sql
+
 files=$(find $PWD -maxdepth 3 -name "*.csv")
 
 for file in $files
